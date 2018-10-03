@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Another Tab",
+  "description": "The extension Another tab overrides your default boring home page and gives you a stunning new home page",
+  "version": "1.0",
+  "chrome_url_overrides" : {
+    "newtab": "home.html"
+  }
+}
