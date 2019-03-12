@@ -1,1 +1,1 @@
-# Another tab
+Another tab is a simple chrome extension for replacing the boring homepage of google chrome. It is based on the api by quotes.rest. Everyday it loads a new qoute from web and on every load sets a new background image.
